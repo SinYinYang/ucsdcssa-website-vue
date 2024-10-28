@@ -26,7 +26,7 @@
       <!--大标题-->
       <el-row>
         <el-col :offset="1" :span="23">
-          <h1>什么是CSSA？</h1>
+          <h1>CSSA三方认证</h1>
           <h2>非政治、非宗教、非盈利的自治学生学者团体</h2>
         </el-col>
       </el-row>
